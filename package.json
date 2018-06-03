@@ -1,0 +1,37 @@
+{
+  "name": "javascript-design-mode",
+  "version": "0.0.1",
+  "description": "javascript design mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flykizz/javascript-design-mode.git"
+  },
+  "keywords": [
+    "javascirpt",
+    "typescript",
+    "design",
+    "mode"
+  ],
+  "author": "flykizz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flykizz/javascript-design-mode/issues"
+  },
+  "homepage": "https://github.com/flykizz/javascript-design-mode#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-loader": "^7.1.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "ts-loader": "^4.3.1",
+    "typescript": "^2.9.1",
+    "uglifyjs-webpack-plugin": "^1.2.5",
+    "webpack": "^4.10.2",
+    "webpack-dev-server": "^3.1.4",
+    "webpack-merge": "^4.1.2"
+  }
+}
